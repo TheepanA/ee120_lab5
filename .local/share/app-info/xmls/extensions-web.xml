@@ -7575,7 +7575,7 @@
     <url type="homepage">https://extensions.gnome.org/extension/1447/disk-space-usage/</url>
     <screenshots>
       <screenshot type="default">
-        <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_1447.png</image>
+        <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_1447_ZH8tQKK.png</image>
       </screenshot>
     </screenshots>
     <releases>
@@ -20295,7 +20295,7 @@
     <id>transparent-window_pbxqdown.github.com</id>
     <name>Transparent Window</name>
     <summary>GNOME Shell Extension</summary>
-    <description><p>Change the opacity of windows by compiz-style shortcut: modifier key(Alt default) + mouse scroll. You can customize hotkey in Preference page if Alt key doesn&apos;t work. Wayland is not supported yet due to its incompatibility with KeyMap/GDKDisplay API in GDK3. Try Xorg instead if you don&apos;t mind switching to an old but more stable display server.</p></description>
+    <description><p>Change the opacity of windows by compiz-style shortcut Alt+scroll. You can customize hotkey in Preference page if Alt key doesn&apos;t work.</p></description>
     <icon type="stock">application-x-addon-symbolic</icon>
     <categories>
       <category>Addon</category>
